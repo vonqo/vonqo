@@ -7,7 +7,7 @@ I like to discover design solutions around the high-loaded systems, front-end sy
 - :hammer_and_wrench: Specialized in Java, Dart and C++
 - :fox_face: Mozillian - [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 
-Favourite quotes about software
+Favourite quotes about software development
 ```
 4. If you have the right attitude, interesting problems will find you.
 12. Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
