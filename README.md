@@ -1,3 +1,5 @@
+<img src="https://github.com/vonqo/vonqo/blob/main/aads.png" width="600"/>
+
 ### Hi there 👋
 
 I like to discover design solutions around the high-loaded back-end systems and declaritive UI system. Plus tinkering around rendering and shading is lovely.
