@@ -1,4 +1,4 @@
-<img src="https://github.com/vonqo/vonqo/blob/main/aads.png" width="600"/>
+<img src="https://github.com/vonqo/vonqo/blob/main/aads.png"/>
 
 ### Hi there 👋
 
