@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Software fellow. Declarative UI and high load system enthusiast. Generative/interactive exp sketcher.
+Declarative UI and high load system enthusiast. Generative/interactive exp sketcher.
 
 - :construction_worker_man: 6-7 years of programming experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
 - 🤔 Looking to collaborate on [PunkOwl/Gestalt](https://github.com/PunkOwl/gestalt) and [PunkOwl/Devola](https://github.com/PunkOwl/devola)
