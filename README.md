@@ -1,19 +1,17 @@
 <img src="https://github.com/vonqo/vonqo/blob/main/aads.png"/>
 
-### Hi there 👋
+### Here 🥃 Have some whisky.
 
-Declarative UI and high load system enthusiast. Generative/interactive exp sketcher.
+Declarative UI and high load system fellow.
 
-- :construction_worker_man: 6-7 years of programming experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
-- 🤔 Looking to collaborate on [PunkOwl/Gestalt](https://github.com/PunkOwl/gestalt) and [PunkOwl/Devola](https://github.com/PunkOwl/devola)
-- :hammer_and_wrench: Specialized in Java, Dart and C++
+- 🪲 7-8 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
+- 🪴 Looking to collaborate on [Projects of PunkOwl](https://github.com/PunkOwl)
+- :kite: Familiar with jamming on Java, Dart, TypeScript, GLSL and C++
 - :fox_face: Mozillian - [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 
 
-```
-14. Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.
- - The Cathedral and the Bazaar
-```
+> Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected. - "The Cathedral and the Bazaar"
+ 
 <!--
 **vonqo/vonqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
