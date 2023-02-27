@@ -4,8 +4,8 @@
 
 Declarative UI and high load system fellow.
 
-- 🪲 7-8 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
-- 🪴 Looking to collaborate on [Projects of PunkOwl](https://github.com/PunkOwl)
+- 🪲 8-9 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
+- 🪴 Looking to collaborate on [Projects of creative41](https://github.com/creative41)
 - :kite: Familiar with jamming on Java, Dart, TypeScript, GLSL and C++
 - :fox_face: Mozillian - [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 
