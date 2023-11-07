@@ -5,7 +5,7 @@
 Declarative UI and high load system fellow.
 
 - 🪲 8-9 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
-- 🪴 Looking to collaborate on [Projects of creative41](https://github.com/creative41)
+- 🪴 Looking to collaborate on [Gestalt](https://github.com/vonqo/gestalt) and [Devola2](https://github.com/vonqo/devola2)
 - :kite: Familiar with jamming on Java, Dart, TypeScript, GLSL and C++
 - :fox_face: Mozillian - [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 
