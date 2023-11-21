@@ -2,15 +2,13 @@
 
 ### Here 🥃 Have some whisky.
 
-Declarative UI and high load system fellow.
+Declarative UI and high load system fellow. Likes to scratch the surfaces of wack shit.
 
 - 🪲 8-9 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
 - 🪴 Looking to collaborate on [Gestalt](https://github.com/vonqo/gestalt) and [Devola2](https://github.com/vonqo/devola2)
-- :kite: Familiar with jamming on Java, Dart, TypeScript, GLSL and C++
-- :fox_face: Mozillian - [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+- 🔧 Familiar with tinkering around Java, Dart, TypeScript, GLSL and C++
 
-
-> Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected. - "The Cathedral and the Bazaar"
+> "Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected"
  
 <!--
 **vonqo/vonqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
