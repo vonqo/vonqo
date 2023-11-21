@@ -6,7 +6,7 @@ Declarative UI and high load system fellow. Likes to scratch the surfaces of wac
 
 - 🪲 8-9 years of bugging experience in Ulaanbaatar, MN 🇲🇳 and California, US 🇺🇸
 - 🪴 Looking to collaborate on [Gestalt](https://github.com/vonqo/gestalt) and [Devola2](https://github.com/vonqo/devola2)
-- 🔧 Familiar with tinkering around Java, Dart, TypeScript, GLSL and C++
+- 🔧 Familiar with tinkering around frameworks and stuffs based on Java, Dart, TypeScript, GLSL and C++
 
 > "Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected"
  
